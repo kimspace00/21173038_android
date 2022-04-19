@@ -17,4 +17,4 @@
 <img width="" height="" src="./picture/activity_main.png"></img>
 
 # 6주차 과제(22-04-19)
-<img width="" height="" src="./picture/실행결과1.png"></img>
+<img width="" height="" src="./picture/6주차결과.png"></img>
