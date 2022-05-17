@@ -18,3 +18,9 @@
 
 # 6주차 과제(22-04-19)
 <img width="" height="" src="./picture/6주차 결과.png"></img>
+
+# 10주차 과제(22-05-10)
+<img width="" height="" src="./picture/main.png"></img>
+<img width="" height="" src="./picture/menu.png"></img>
+<img width="" height="" src="./picture/캡쳐1.png"></img>
+<img width="" height="" src="./picture/캡쳐2.png"></img>
